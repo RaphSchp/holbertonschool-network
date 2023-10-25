@@ -2,7 +2,7 @@
     <h1>:globe_with_meridians: Networking basics #0 :globe_with_meridians:</h1>
 </div>
 
-![Holberton School Logo](https://images.ctfassets.net/ii9ehdcj88bc/2CC58hnivl0LvIEnCeYB33/f2e9b355bfc243b6c292a8e0191987c9/Black_WordmarkHolberton01-01.png)
+![Holberton School Logo](https://uploads-ssl.webflow.com/6105315644a26f77912a1ada/63eea844ae4e3022154e2878_Holberton.png)
 
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
@@ -32,9 +32,9 @@ For multiple choice question type tasks, just type the number of the correct ans
 
 What is the most important position in a software company?
 
-   :one: Project manager
-   :two: Backend developer
-   :three: System administrator
+   * :one: Project manager
+   * :two: Backend developer
+   * :three: System administrator
 
 ```
 sylvain@ubuntu$ cat foo_answer_file
