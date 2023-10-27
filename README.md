@@ -15,12 +15,11 @@ This repository was made to store all directories of my projects, it was made in
 >:memo:This is a non-exhaustive list of my projects, and I will update it as soon as I have finished a project !
 
 <details>
-<summary> <strong> 📁 October 23 > October 27 CHANGE ME </strong> </summary>
+<summary> <strong> 📁 October 23 > October 27 </strong> </summary>
 <br>
 
-* <a href="https://github.com/RaphSchp/holbertonschool-higher_level_programming/tree/main/python-everything_is_object">CHANGE ME</a>
-* <a href="https://github.com/RaphSchp/holbertonschool-higher_level_programming/tree/main/python-inheritance">CHANGE ME</a>
-* <a href="https://github.com/RaphSchp/holbertonschool-higher_level_programming/tree/main/python-input_output">CHANGE ME</a>
+* <a href="https://github.com/RaphSchp/holbertonschool-network/tree/main/basics_0">basics_0</a>
+
 
 </details>
 
